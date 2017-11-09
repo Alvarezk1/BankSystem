@@ -5,7 +5,7 @@ This repo contains a command-line program that acts as a simple bank account sys
   - main:
     *Inside the main file sits the source code of the application.
   
-  -testableFunction:
+  - testableFunction:
     *Inside the testableFunction file are the separate methods created that make the application for testing reasons.
     
 # test
